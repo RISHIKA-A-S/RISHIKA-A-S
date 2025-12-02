@@ -13,7 +13,7 @@
 
 ---
 
-## 🔥 GitHub Stats (All animations working)
+## 🚀 GitHub Stats 
 
 ### 🔥 Streak Stats  
 <p align="center">
