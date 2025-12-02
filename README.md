@@ -32,11 +32,6 @@
 
 ---
 
-## 🐍 Snake Animation (100% GitHub-Compatible)
-> Note: This requires a GitHub Action.  
-I generated the correct image path for you:
-
----
 
 ## 💗 **About Me**
 - 🎓 IT Student (2027)
