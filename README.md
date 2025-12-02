@@ -36,11 +36,24 @@
 > Note: This requires a GitHub Action.  
 I generated the correct image path for you:
 
-```md
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RISHIKA-A-S/RISHIKA-A-S/output/github-contribution-grid-snake.svg" />
-</p>
+---
 
+## 💗 **About Me**
+- 🎓 IT Student (2027)
+- 🌱 Currently Learning: MERN Stack, Deep Learning, Systems Design 
+- 💥 LeetCode enthusiast (300+ problems)
+- 🔥 Code. Create. Conquer.  
+  
+
+---
+
+
+## 🔗 **Connect With Me**
+<p align="center">
+<a href="https://www.linkedin.com/in/rishika-a-s"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rishikaas123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/RISHIKA-A-S"><img src="https://img.shields.io/badge/GitHub-000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 
 
