@@ -43,30 +43,22 @@ Turning ideas into impactful tech — one commit at a time.
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RISHIKA-A-S&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RISHIKA-A-S&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RISHIKA-A-S&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RISHIKA-A-S/RISHIKA-A-S/output/github-contribution-grid-snake.svg" />
-</p>
-
-### 👾 Pacman Eating Your Contributions
-<p align="center">
-  <img src="https://github.com/samirkhan2404/samirkhan2404/raw/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
 # 🚀 About Me
 
 🎓 **IT Student | Class of 2027**  
-🤖 Building AI + ML Projects: AR Navigation, Gamified Fitness, NLP Chatbots  
+🤖 Building impactful projects 
 🌱 Learning MERN, Deep Learning, System Design  
 🔥 **LeetCode 300+** | Passionate Coder & Problem Solver  
 
