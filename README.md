@@ -36,7 +36,6 @@
 ## 💗 **About Me**
 - 🎓 IT Student (2027)
 - 🌱 Currently Learning: MERN Stack, Deep Learning, Systems Design 
-- 💥 LeetCode enthusiast (300+ problems)
 - 🔥 Code. Create. Conquer.  
   
 
