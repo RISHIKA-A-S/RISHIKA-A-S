@@ -35,10 +35,39 @@
 
 ---
 
-## 💗 **About Me**
-- 🎓 IT Student (2027)
-- 🌱 Currently Learning: MERN Stack, Deep Learning, Systems Design 
-- 🔥 Code. Create. Conquer.  
+#include <iostream>
+#include <vector>
+#include <string>
+
+class Developer {
+public:
+    std::string name = "Rishika A S";
+    std::string role = "B.Tech IT Student (2023–2027)";
+    std::string motto = "Code. Create. Conquer.";
+
+    std::vector<std::string> learning = {
+        "MERN Stack",
+        "Deep Learning",
+        "System Design"
+    };
+
+    std::vector<std::string> interests = {
+        "AI & Machine Learning",
+        "Web Development",
+        "Computer Vision"
+    };
+
+    std::string greet() const {
+        return "Hey there! I'm Rishika 👋 An enthusiastic developer exploring code, creativity, and real-world innovation.";
+    }
+};
+
+int main() {
+    Developer me;
+    std::cout << me.greet() << std::endl;
+    return 0;
+}
+
   
 
 ---
