@@ -42,7 +42,7 @@
 ---
 ## 💗 **About Me**
 - 🎓 IT Student (2027)
-- 🌱 Currently Learning: MERN Stack, Deep Learning, Systems Design 
+- 🌱 Currently Learning: MERN Stack, Deep Learning
 - 🔥 Code. Create. Conquer.  
 
 
